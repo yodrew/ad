@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title><%= @item[:title] %> - darkroom retreat</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+  </head>
+  <body> 
+    <div class="navbar">
+          <a href="/"><h1>darkroom retreat</h1></a>
+          <%= render 'menu' %>
+    </div>
+    <div class="content">
+     	<h3><%= item[:title] %></h3>
+ 		<%= yield %>
+    </div>
+  </body>
+</html>
