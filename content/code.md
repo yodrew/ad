@@ -2,4 +2,4 @@
 title: "code"
 ---
 
-[Code repository](https://github.com/yodrew/ad) now up! 
+[git code repository](https://github.com/yodrew/ad) now up! 
