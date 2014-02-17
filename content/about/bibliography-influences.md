@@ -31,6 +31,7 @@ title: "bibliography and influences"
     - _The Natural House_, Frank Lloyd Wright
     - _BuckyWorks_, Jay Baldwin (about Buckminster Fuller)
     - _Selected Poems_, Robert Bly 
+    - _The Dark is Rising_, Susan Cooper
 - experience
     - a week at Sawtooth Methodist Church Camp, Joanie Williamson, director, 1985
     - three months enraptured, 1987
