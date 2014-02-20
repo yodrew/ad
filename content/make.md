@@ -142,7 +142,7 @@ This is like a stretched canvas for painting, but with lightproof padding around
 
 The insert will fit inside the window opening and against the window frame. The insert makes space for window handles that stick out beyond their frames. 
 
-If your air supply comes through your window, attach a lightproof vent to the insert on the back near the top so it does not stick out into the room. Test position of vent before gluing to make sure it clears the window frame, handles, etc. If your supply and return air pass through your window, you will need two lightproof vents, one near the top and one near the bottom of the insert.
+If your air supply comes through your window, attach a lightproof vent to cover of insert near the top. Probably attach it to the front due to lack of space between cover and glass). <!-- to the insert on the back near the top so it does not stick out into the room. Test position of vent before gluing to make sure it clears the window frame, handles, etc. --> If your supply and return air pass through your window, you will need two lightproof vents, one near the top and one near the bottom of the insert.
 
 ###### parts list 
 
