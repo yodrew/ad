@@ -27,7 +27,7 @@ Each of you gave me the world.
 
 Since darkness fell:
 
-- Terje Tjensvoll and Simen Kirker<span class="euro">&oslash;d</span>, friends, hosts
+- Terje Tjensvoll and Simen Kirker<span class="euro">&oslash;</span>d, friends, hosts
 - Elisabette Molin: friend, supporter, retreat host
 - Marcus Ivarsson and Emma Sofie Berg: connectors
 - Johan J<span class="euro">&auml;</span>rlind: work partner, investor, retreat host, supporter, confidant, and friend in a critical year

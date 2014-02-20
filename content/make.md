@@ -150,11 +150,11 @@ If your air supply comes through your window, attach a lightproof vent to the in
 2. deck screws: 40mm, 8-12
 3. strap: webbing or strap sewn of fabric, ~25mm wide x 200mm
 4. cover
-    1. fabric: lightproof (black, heavy, tightly woven, and thick: two layers of 12oz canvas, or dense wool blanket)
-    2. paper: heavy kraft
-5. wood glue (for paper cover)
-6. cardboard (for paper cover): clean and odorless, from furniture and appliance stores. Use double-layer cardboard or two sheets of single-layer to ensure lightproofness
-7. light seal (for paper cover):
+    1. blanket: black, heavy, and thick, like dense wool or 2-3 polar fleece
+    2. sheet: heavy kraft paper or medium-weight, tightly woven natural fabric (canvas, twill)
+5. wood glue (for sheet cover)
+6. cardboard (for sheet cover): clean and odorless, from furniture and appliance stores. Use double-layer cardboard or two sheets of single-layer to ensure lightproofness
+7. light seal (for sheet cover):
     - fabric
         - black fabric: jersey knit, khaki twill, or canvas 
         - open cell foam, 6mm thick
@@ -176,8 +176,8 @@ If your air supply comes through your window, attach a lightproof vent to the in
 
 ###### cover
 
-**fabric cover**  
-This is a quick, non-permanent method. If you need a lightproof vent in your window, this method is incompatible with it, so use paper cover instead.
+**blanket cover**  
+This is a quick, non-permanent method. If you need a lightproof vent in your window, this method is incompatible with it, so use sheet cover instead.
 
 1. Get a piece of thick, lightproof fabric (eg, a heavy quilt or wool blanket) bigger than the window opening by 20cm on all four sides.
 2. Drape it over back of frame
@@ -185,8 +185,7 @@ This is a quick, non-permanent method. If you need a lightproof vent in your win
 4. Use extra fabric to seal any light leaks around the edges. Stuff extra fabric back into the crack between the frame and window opening with a dull knife (like a table knife).
 5. Ignore remaining steps. You're done!
 
-**paper cover**
-
+**sheet cover**  
 1. Remove frame from opening and place front side down on a clean floor.
 2. Screw two more stabilizing boards diagonally to the back of the frame behind the first stabilizers.
 3. Remove the front stabilizers.
@@ -199,7 +198,7 @@ This is a quick, non-permanent method. If you need a lightproof vent in your win
 10. Lay the frame back over it to check how well it fits inside the frame. Trim cardboard as necessary.
 11. Remove the frame. Turn the cardboard over onto its other side, next to where you have been working.
 12. Put down something soft and flat that is bigger than the frame, like a blanket, towel, or piece of foam.
-13. Lay down the fabric or thick kraft paper that will cover the frame, visible side down. Use a medium weight tightly woven, natural fabric like twill or canvas. Do not use common blackout blind fabric. Besides being expensive and toxic like all vinyl products, it is ineffective: light seeps through it.
+13. Lay down cover material, visible side down. 
 14. Lay the frame over it so the cover extends beyond it 15mm to make sure where it will end up.
 15. Mark two inside corners at the ends of a long side.
 16. Remove the frame and apply a 6mm bead of interior wood glue all the way around its front side.

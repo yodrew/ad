@@ -50,9 +50,9 @@ title: "faq"
 
 - _Isn't total darkness unnatural? Wouldn't we normally be exposed to stars and moon at night?_
 
-    No, not often. Our natural habitat is tropical forest, whose floor is totally dark at night.
-
-    Furthermore, when people are in shock, exhausted, or emotionally overwhelmed, they instinctively seek shelter alone and cover their eyes with their hands. A darkroom retreat is merely an extended expression of this instinct in extreme cases. 
+    Is shelter unnatural? Large uncovered windows are very recent in popular architecture. Most traditional shelter, civilized and indigenous, is dark or darkenable and regularly darkened.
+    
+    When people are in shock, exhausted, or emotionally overwhelmed, they instinctively seek shelter in solitude and cover their eyes with their hands. A darkroom retreat is merely an extended expression of this instinct in extreme cases. 
 	
     Which are epidemic.
 

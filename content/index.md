@@ -78,7 +78,7 @@ I hope you enjoy the book and find it useful. Please send me any questions, comm
 
 ##### Donate
 
-You can support my work by donating through PayPal. If you would like to give something for the ebook but don't know how much, $7 is about what it will cost at Amazon when I sell it there. 
+You can support my work by donating through PayPal. If you would like to give something for the ebook but don't know how much, $5 is about what I will make when I sell it at Amazon. 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
