@@ -76,7 +76,7 @@ If you have trouble downloading, [email me](/about/) and I'll send you the files
 
 I hope you enjoy the book and find it useful. Please send me any questions, comments, corrections, or suggestions you have regarding it.
 
-##### Donate
+##### support this work
 
 You can support my work by donating through PayPal. If you would like to give something for the ebook but don't know how much, $5 is about what I will make when I sell it at Amazon. 
 
@@ -88,6 +88,12 @@ You can support my work by donating through PayPal. If you would like to give so
 </form>
 
 Don't use PayPal? Pay what you want for my ebook at [leanpub](http://leanpub.com/darkroom-retreat-hygiene) or [email me](/about/) about other methods (snailmail, bank transfer or deposit).
+
+Wish list:
+portable home ([microhouse](http://wikispeed.org/microhouse) or folding [hexayurt](http://hexayurt))
+folding electric bike w/20" wheels
+[bamboo trailer](http://www.carryfreedom.com/bamboo.html‎) 
+
 
 ![cover image](/img/book/adcf.jpg)
 
